@@ -1,0 +1,1 @@
+1.one hot encoding needs the data to be converted int the array after being dropped the columns through the axis=12.square bracket and a BRACKET WITHIN to pass one dimensional array.3. we retrieve features after one hot encoding for model interpretability and data traceability(which binary represents which category)
